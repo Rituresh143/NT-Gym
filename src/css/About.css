@@ -1,0 +1,15 @@
+
+.btn1{
+    background-color: red;
+    width: 100px;
+    height: 20px;
+    color: blue;
+}
+.div1{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin-left: 200px;
+    margin-top: 20px;
+    /* background: green; */
+}
